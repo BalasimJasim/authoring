@@ -10,8 +10,8 @@ https://support.github.com/
 - https://github.com/BalasimJasim/authoring/tree/main/images%20folder
 - ![image](images/400.jpeg)
 
-- 💙: 💛:
-- | Names  |  | Class |
-- | -----  |  | ----- |
-- | MONN   |  |  A    |
-- | junain |  |  B    |
+- 💙 💛
+- | name   | class |
+- | ------ | ----- |
+- | Jone   | B     |
+- | Arthur | A     |
