@@ -15,3 +15,5 @@ https://support.github.com/
   | ------ | ----- |
   | Jone   | B     |
   | Arthur | A     |
+
+after many tries the table was creared succeesfully 
