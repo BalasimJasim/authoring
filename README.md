@@ -1,9 +1,9 @@
 # authoring
 # Github Flavoured Markdown
-- [ ] External link
-- [ ] internal link
-- [ ] Images
-- [ ] Tables
+- [x] External link
+- [x] internal link
+- [x] Images
+- [x] Tables
 # External Link
 https://support.github.com/
 # Internal Link 
@@ -12,6 +12,6 @@ https://support.github.com/
 
 - 💙 💛
 - | name   | class |
-- | ------ | ----- |
-- | Jone   | B     |
-- | Arthur | A     |
+  | ------ | ----- |
+  | Jone   | B     |
+  | Arthur | A     |
